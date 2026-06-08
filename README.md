@@ -4,7 +4,7 @@ The original code for this program was made by Leuan, translated by Leuan and mo
 "This is a free software. If you paid for it, you were SCAMMED" - Anadius
 
 # What is This For?
-This program serves to be an in-between option for manually updating your packs, and the discontinued Toolkit made by the same guy that made this. There are instructions in the program that tell you what you need to do. This is for people that keep making mistakes when moving their pack folders, or for people that simply don't wanna do it. This script works on Windows, MacOS, and Linux. 
+This program serves to be an in-between option for manually updating your packs, and the discontinued Toolkit made by the same guy that made this. There are instructions in the program that tell you what you need to do. This is for people that keep making mistakes when moving their pack folders, and for people that don't want to wait for the annoying extraction times. This script works on Windows, MacOS, and Linux. 
 
 # What Does it Do?
 The program automates the process of extracting zip files to your Sims 4 game folder for you. All you need to do is tell it what .zips you want to add to your game, tell it where your Sims 4 game folder is, and it will extract the zips to the correct folder. IT ONLY READS ZIPS so pointing it to normal folders will not work. The program acts as an executable, but you can always view the code for it to see what it is doing by opening it in a text editor. This program is safe to use and execute.
