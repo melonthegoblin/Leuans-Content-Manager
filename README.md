@@ -1,4 +1,4 @@
-# Leuans-Content-Manager-Customized-for-KristinaPlaysTheSims
+# Leuans-Content-Manager (modified and customized for KristinaPlaysTheSims)
 The original code for this program was made by Leuan, translated by Leuan and modified by me. 
 
 "This is a free software. If you paid for it, you were SCAMMED" - Anadius
@@ -24,7 +24,7 @@ You can get Python here at: https://www.python.org/downloads/
 - Added credits text in the title of the program
 
 # I Still Need Help!
-If you are still having trouble, you can reach me for support in Kristinas discord server: https://discord.gg/4us7yh74
+If you are still having trouble, you can reach me for support in Kristinas discord server: https://discord.gg/dDMGhHNR56
 Once verified, navigate to the troubleshooting channel and ping me with your question.
 
 
