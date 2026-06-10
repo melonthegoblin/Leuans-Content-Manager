@@ -8,7 +8,7 @@ from tkinter import filedialog, messagebox, ttk
 
 CONFIG_FILE = os.path.join(os.path.expanduser("~"), ".sims4_manager.json")
 KRISTINA_MEDIAFIRE = "https://www.mediafire.com/folder/3sc6iawzv7ysu/TS4+Resources"
-YOUTUBE_LINK = "https://www.youtube.com/@KristinaPlaysTheSims/featured"
+YOUTUBE_LINK = "https://www.youtube.com/@KristinaPlaysTheSims"
 LEUANS_SERVER = "https://discord.gg/G7eMu58YAK"
 MELON_ARCHIVE = "https://gofile.io/d/VqC3pX"
 
