@@ -11,7 +11,7 @@ The program automates the process of extracting zip files to your Sims 4 game fo
 
 Upon clicking the "Open Download Link" button, you will be redirected to four sites. Kristinas youtube page, Leuans community discord server, Kristinas Mediafire, and a GoFile I have created. You can use Kristinas Mediafire for individually downloading the packs, or you can use mine to download a .zip the packs in zip form specifically made for this content manager. This may be changed in the future, and the archive on my GoFile may be uploaded to Kristinas Mediafire to keep things tidy.
 
-!!! PLEASE NOTE THAT THE BULK .ZIP I HAVE MADE SPECIFICALLY FOR THE CONTENT MANAGER IS STILL UPLOADING. IT IS GOING TO TAKE QUITE SOME TIME SINCE IT IS GOFILE, AND IM UPLOADING 50GB TO THE ARCHIVE. DO NOT USE THE 'All in One' ARCHIVE FOR THIS AS THE FOLDERS INSIDE ARE NOT ZIPPED. <3 !!!
+!!! PLEASE NOTE: DO NOT USE THE 'All in One' ARCHIVE FOR THIS AS THE FOLDERS INSIDE ARE NOT ZIPPED. USE THE ONE SPECIFICALLY CALLED "FOR THE CONTENT MANAGER ONLY"<3 !!!
 
 # How Do I Use This?
 You will need to install Python in order to use this. You can either double click the .py script, or you will need to execute it in your terminal. 
